@@ -1,0 +1,16 @@
+table{
+      text-align:center;
+      background-color:cyan;
+      border-style:dotted;
+      width:70%;
+      height:70%;
+     }
+th{
+   background-color:hotpink;
+   color:blue;
+   font-family:Bell MT;
+  }
+td{
+   color:purple;
+   font-family:Bell MT;
+  }
